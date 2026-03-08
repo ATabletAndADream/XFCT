@@ -15,7 +15,7 @@ ________________________________________________________________________________
 Speaking of which!
 You do require these three apps.
 
-Termux-X11 - [https://github.com/termux/termux-x11](url) or 
+Termux-X11 - [https://github.com/termux/termux-x11](url)
 
 Termux (Obviously.) - [https://f-droid.org/en/packages/com.termux/](url) or https://github.com/termux/termux-app
 
