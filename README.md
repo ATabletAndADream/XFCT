@@ -18,3 +18,19 @@ Termux (Obviously.) - [https://f-droid.org/en/packages/com.termux/](url) or http
 Termux API - [https://f-droid.org/en/packages/com.termux.api/](url) or [https://github.com/termux/termux-api](url)
 
 ___________________________________________________________________________________________________________________
+
+Steps to use installation
+
+1. Download Prerequiset Apps
+
+2. Download XFCT_BASE
+
+3. Paste this into your Termux Folder
+
+4. Enter Termux
+
+5. Run ls (To confirm the file is in the folder
+
+6. Run chmod +x XFCE_BASE
+
+7. Run ./XFCE_BASE
