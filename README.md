@@ -5,8 +5,11 @@ Well this is for you than.
 Introducing XFCT - Chromebook Edition.
 
 This was built for Chromebooks in mind due to the X86_64. But I do believe this works for all devices (ARM, X86, Etc...)
+___________________________________________________________________________________________________________________
 
-What this allows you to do it get a simple interface on termux and install xfc4, ubuntu, pulseaudio, and required apps to run Termux-X11.
+What this allows you to do is :
+Get a simple interface on termux and install xfc4, ubuntu, pulseaudio, and required apps to run Termux-X11.
+___________________________________________________________________________________________________________________
 
 Speaking of which!
 You do require these three apps.
@@ -34,3 +37,4 @@ Steps to use installation
 6. Run chmod +x XFCE_BASE
 
 7. Run ./XFCE_BASE
+___________________________________________________________________________________________________________________
