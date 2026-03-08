@@ -8,6 +8,7 @@ This was built for Chromebooks in mind due to the X86_64. But I do believe this 
 ___________________________________________________________________________________________________________________
 
 What this allows you to do is :
+
 Get a simple interface on termux and install xfc4, ubuntu, pulseaudio, and required apps to run Termux-X11.
 ___________________________________________________________________________________________________________________
 
